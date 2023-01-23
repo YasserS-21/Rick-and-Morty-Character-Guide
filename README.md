@@ -1,1 +1,1 @@
-# Rick-and-Morty-Episode-Guide
+# Rick-and-Morty-Character-Guide
