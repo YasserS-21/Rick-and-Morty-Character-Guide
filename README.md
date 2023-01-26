@@ -65,6 +65,3 @@ Passcode: W#V8*#TQ
 * On the homepage, characters are displayed with their name, image, and first appearance.
 * Users can navigate through the different pages of characters using the pagination at the bottom of the page.
 * Users can also search for a specific character using the search bar at the top of the page.
-=======
-# Rick-and-Morty-Character-Guide
->>>>>>> 8e1d6719aa3ab6816b5adcf187fe830392aee40d
