@@ -4,9 +4,9 @@
 [Rickcyclopedia](https://rickcyclopedia.netlify.app/) was created using HTML, CSS, JavaScript, and Bootstrap 5. Used Rick and Morty API to retrieve data about characters from the popular animated series "Rick and Morty." The webpage allows users to view information about characters from the show Rick and Morty, including their name, image, and first appearance episode.
 
 # Watch Presentation
-[Presentation](https://us06web.zoom.us/rec/share/LDWd5a7G--cVNBe4i5te83u0400-xRfH0xwe5isZzBnYmgbaXxVNokU8nZ7Fj2Db.08PpInZBd5zEzLWA)
+[Presentation]()
 
-Passcode: W#V8*#TQ
+Passcode: 
 
 ### Features
 
