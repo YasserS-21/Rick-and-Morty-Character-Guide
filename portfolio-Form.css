@@ -1,0 +1,46 @@
+body{
+    margin:5px;
+    padding:5px;
+    margin-left:2%;
+    background-image: url(./assets/rick-and-morty-1549967299.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 106% 106%;
+}
+
+.align_btn{
+    letter-spacing: 1.2px;
+    cursor: pointer;
+    width:12%;
+}
+
+.align_btn:hover{
+    background-color:chocolate;
+    color: black;
+}
+
+header nav a:hover{
+    color: rgba(39, 142, 95, 2) !important;
+    font-weight: bold; 
+}
+
+.align__input{
+    width:37%;
+}
+
+.align__select{
+    width:120%;
+}
+
+header a{
+    text-decoration: none;
+}
+
+.align__label{
+    margin-right: 20px;
+}
+
+#message {
+    width: 50%; 
+}
+  

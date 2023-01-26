@@ -1,0 +1,44 @@
+
+body{
+  margin:5px;
+  padding:5px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin:35px;
+    padding:5px;
+}
+
+header a{
+  text-decoration: none;
+}
+
+.viewInfoBtn{
+  width:45%;
+  margin:15px;
+  padding:5px;
+  background-color: rgba(39, 142, 95, 2);
+  color:black;
+  margin-left:65px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-weight: bold;
+  letter-spacing: 1.2px;
+}
+
+.viewInfoBtn:hover{
+  background-color: rgb(114, 55, 241);
+  color:whitesmoke;
+}
+
+header nav a:hover{
+  color: rgba(39, 142, 95, 2) !important;
+  font-weight: bold; 
+}
+
+.pagination{
+  margin-left:30%;
+}

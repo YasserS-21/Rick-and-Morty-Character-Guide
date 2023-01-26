@@ -1,0 +1,36 @@
+body{
+    margin:20px;
+    padding:10px;
+    font-size: 16px;
+}
+
+img{
+    width:60%;
+    height: 60%;
+    margin-left:250px;
+}
+
+h2,h4{
+    text-align: center  ;
+}
+
+blockquote{
+    font-style: italic;
+    font-size:medium;
+    margin-top: 2%;
+    text-align: justify;
+}
+
+
+header a{
+    text-decoration: none;
+}
+
+h2{
+    margin-top: 5%;
+}
+
+header nav a:hover{
+    color: rgba(39, 142, 95, 2) !important;
+    font-weight: bold;
+}
